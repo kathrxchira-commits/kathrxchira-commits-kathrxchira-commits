@@ -1,0 +1,241 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome WIN 153.0.8010.53 (792bf6722e73a45aa9e47c163b9901bdc17f3230-refs/branch-heads/8010@{#1444}) channel(stable)",
+            "device_type": "TYPE_WIN",
+            "chrome_version_info": {"version_number": "153.0.8010.53"},
+            "signin_scoped_device_id": "6a04f050-3bab-403c-84ed-3fd3ef1eb9ec",
+            "manufacturer": "Acer",
+            "cache_guid": "sE67TDfoEzsPSz28ZkrO5Q==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_DESKTOP",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "desktop_to_ios_promo_receiving_enabled": false,
+                        "send_tab_to_self_receiving_enabled": true,
+                        "glic_experimental_triggering_state": "UNAVAILABLE"
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "cUA_28KTEqo:APA91bEQM1DT-H9dli_YM1uUuPAlnKJpuIoll4Ylv0RfWVe_NVCMgU-bn5EBy4bUEPmCCvhdmc6B9szRsBpoQnlWBLFTwo4nP6fQNCizQLRuXFy50LR3PtU",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    1164238,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    1033580,
+                                    41210,
+                                    48119,
+                                    88610,
+                                    96159,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    673225,
+                                    1034378,
+                                    895275,
+                                    1141935,
+                                    1419865,
+                                    1438954,
+                                    1520954,
+                                    1564245,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_WINDOWS",
+            "last_updated_timestamp": 1789837014249,
+            "model": "Veriton X4630G",
+            "client_name": "DESKTOP-AREV481",
+            "chrome_version": "153.0.8010.53"
+},
+        {
+            "cache_guid": "x8tzFNJFvAxdUHqq0/VTKw==",
+            "google_play_services_version_info": {"apk_version_name": "263436035"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "dErBxchjZEk:APA91bGKPMYhezKAA8_kKmwkNktV7axSeeZfaizM7VHPoAHNwoRZ_Qzlyuh2RPwGv-r4hC1Jjn5lI1f9MA8sZ06mFBkDi-0QJelSMUM56KKZHa3gX6KJZjw",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    45873,
+                                    306270,
+                                    895275,
+                                    330441,
+                                    1141935,
+                                    1419865,
+                                    1164238,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1789921462910,
+            "device_type": "TYPE_PHONE",
+            "model": "SM-S721B",
+            "client_name": "SM-S721B",
+            "manufacturer": "samsung"
+},
+        {
+            "server_determined_model_name": "Galaxy S24 FE",
+            "sync_user_agent": "Chrome ANDROID-PHONE 152.0.7977.8 (690eeba1cdac8a8dc7b6cd318e9e3810b25788c8-refs/branch-heads/7977@{#88}) channel(beta)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "152.0.7977.8 beta"},
+            "signin_scoped_device_id": "34a16861-a6c9-4b9b-8e05-548e7daf0a26",
+            "manufacturer": "samsung",
+            "cache_guid": "X/QQhsbFZsmA9tOhsOzgNQ==",
+            "android_os_build_fingerprint_prefix": "samsung/r12sxxx/r12s",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "desktop_to_ios_promo_receiving_enabled": false,
+                        "send_tab_to_self_receiving_enabled": true,
+                        "glic_experimental_triggering_state": "UNAVAILABLE"
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "fVDFafaBYq0:APA91bG1Nnc2fEjsT_y-D1USLhLeEVKVOP9W5AGMyBgVaoVec1EYvyzNpr_Mao-s-M3X1wDpOJFGHWWTNo1aiGmgQeI0vsYTFbN7nUrZdOU891OhYgOjczo",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    1164238,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    1033580,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    1034378,
+                                    1004874,
+                                    1419865,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1787893573935,
+            "model": "SM-S721B",
+            "client_name": "SM-S721B",
+            "chrome_version": "152.0.7977.8 beta"
+},
+        {
+            "cache_guid": "fsF3ztFGe8Yzr1fPZJXfFw==",
+            "google_play_services_version_info": {"apk_version_name": "263332035"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "dq05pG3yKBI:APA91bEtwVcPck-A8ujrVFtEfLye3Z9vkRnPO2ltFXF0Y3Xvtul1ERoOBCoLrXg0P99kIkBVywQS8YOk6OSXRr_HcKtLdBwWWxiq7Rfo7UUD7B7Yxu1rv30",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    45873,
+                                    895275,
+                                    1141935,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1789482622325,
+            "device_type": "TYPE_PHONE",
+            "model": "SM-S721B",
+            "client_name": "SM-S721B",
+            "manufacturer": "samsung"
+},
+        {
+            "cache_guid": "iZD2Sli2x+/BzuSLPb7u7w==",
+            "google_play_services_version_info": {"apk_version_name": "263436112"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_TV",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "ej4z4VVKPRI:APA91bE5gG3xZvhVBQIdudLeM1UfKPmHupoMC_ec7Q8P1f23FX1VXq4L__pUL-0X9sR8mpist8xIfTBl469QsbbpWL7erXc_QS5NV2XYYm7_zUkSKEHp3xs",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1789878135309,
+            "device_type": "TYPE_OTHER",
+            "model": "AndroidX",
+            "client_name": "AndroidX",
+            "manufacturer": "Android TV"
+},
+        {
+            "cache_guid": "FEny/IQhfwLM2aCol+/b3w==",
+            "google_play_services_version_info": {"apk_version_name": "263234035"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "dq05pG3yKBI:APA91bF28uxMyIrZGDqGFUc8YR1eu4MvRiv21jDFFmQac_9vmpZCPfqzYzax1lh-inji5SqeGwyyYaqMnvq3m7vdXUxkckYYpdu6Fd13uDbwoqQlTiGdqME",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    895275,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1787857525765,
+            "device_type": "TYPE_PHONE",
+            "model": "SM-S721B",
+            "client_name": "SM-S721B",
+            "manufacturer": "samsung"
+},
+        {
+            "sync_user_agent": "Chrome WIN 153.0.8010.53 (792bf6722e73a45aa9e47c163b9901bdc17f3230-refs/branch-heads/8010@{#1444}) channel(stable)",
+            "device_type": "TYPE_WIN",
+            "chrome_version_info": {"version_number": "153.0.8010.53"},
+            "signin_scoped_device_id": "8528e9c6-37a8-48bf-b7c9-d0e51469875e",
+            "manufacturer": "Acer",
+            "cache_guid": "L8hlWnw3n92Dc/Ls59r/Ug==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_DESKTOP",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "desktop_to_ios_promo_receiving_enabled": false,
+                        "send_tab_to_self_receiving_enabled": true,
+                        "glic_experimental_triggering_state": "UNAVAILABLE"
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "f0UpvgA7uT0:APA91bFGjAE9Qea25OVPB6_Z2ueDv1lcnEZWwrOuYs7yxsr1pGf67EHYZf3jVfffNtefNjN3CxE4q8aWk1OZ7aBwibQvliesm5LuFNS2BMYkpwYdunJeASc",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    1164238,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    1033580,
+                                    41210,
+                                    48119,
+                                    88610,
+                                    50119,
+                                    96159,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    673225,
+                                    963985,
+                                    1034378,
+                                    1004874,
+                                    895275,
+                                    1141935,
+                                    1419865,
+                                    1438954,
+                                    1520954,
+                                    1564245,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_WINDOWS",
+            "last_updated_timestamp": 1789904157292,
+            "model": "Veriton X4630G",
+            "client_name": "DESKTOP-V1K29GH",
+            "chrome_version": "153.0.8010.53"
+}
+    ]
+}
